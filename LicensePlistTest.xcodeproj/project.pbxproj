@@ -17,6 +17,7 @@
 		D509DB472768984100BF01E0 /* LicensePlistTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D509DB462768984100BF01E0 /* LicensePlistTestTests.swift */; };
 		D509DB512768984200BF01E0 /* LicensePlistTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D509DB502768984200BF01E0 /* LicensePlistTestUITests.swift */; };
 		D509DB532768984200BF01E0 /* LicensePlistTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D509DB522768984200BF01E0 /* LicensePlistTestUITestsLaunchTests.swift */; };
+		D509DB7A2769AF3900BF01E0 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D509DB792769AF3900BF01E0 /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		D509DB4C2768984100BF01E0 /* LicensePlistTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LicensePlistTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D509DB502768984200BF01E0 /* LicensePlistTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LicensePlistTestUITests.swift; sourceTree = "<group>"; };
 		D509DB522768984200BF01E0 /* LicensePlistTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LicensePlistTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D509DB792769AF3900BF01E0 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		E14E2D8739659142913B63A2 /* Pods_LicensePlistTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LicensePlistTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -96,7 +98,6 @@
 				B3C42D372CE45633373D77DC /* Pods-LicensePlistTestTests.debug.xcconfig */,
 				CFF22DC8B2B8AFBA2C548C5E /* Pods-LicensePlistTestTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -139,6 +140,7 @@
 				D509DB372768983F00BF01E0 /* ContentView.swift */,
 				D509DB392768984100BF01E0 /* Assets.xcassets */,
 				D509DB3B2768984100BF01E0 /* Preview Content */,
+				D509DB792769AF3900BF01E0 /* Settings.bundle */,
 			);
 			path = LicensePlistTest;
 			sourceTree = "<group>";
@@ -278,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D509DB3D2768984100BF01E0 /* Preview Assets.xcassets in Resources */,
+				D509DB7A2769AF3900BF01E0 /* Settings.bundle in Resources */,
 				D509DB3A2768984100BF01E0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
