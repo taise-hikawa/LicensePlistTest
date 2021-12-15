@@ -1,3 +1,3 @@
 # LicensePlistTest
 
-LicensePlistを試したくて作っただけのものです。
+LicensePlistを試しただけのもの
