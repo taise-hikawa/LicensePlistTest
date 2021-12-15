@@ -7,6 +7,8 @@ target 'LicensePlistTest' do
 
   # Pods for LicensePlistTest
   pod 'Alamofire'
+  pod 'Firebase'
+  pod 'LicensePlist'
   target 'LicensePlistTestTests' do
     inherit! :search_paths
     # Pods for testing
@@ -16,4 +18,8 @@ target 'LicensePlistTest' do
     # Pods for testing
   end
 
+end
+post_install do | installer |
+  require 'fileutils'
+  FileUtils.cp_r('Pods/Target Support Files/Pods-LicensePlistTest/Pods-LicensePlistTest-acknowledgements.plist', 'LicensePlistTest/Settings.bundle/Acknowledgements.plist', :remove_destination => true)
 end

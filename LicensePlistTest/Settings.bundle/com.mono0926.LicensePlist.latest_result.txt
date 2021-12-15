@@ -1,0 +1,117 @@
+name: Alamofire, nameSpecified: 
+body: Copyright (c) 2014-2…
+version: 5.5.0
+
+name: Alamofire, nameSpecified: 
+body: Copyright (c) 2014-2…
+version: 5.5.0
+
+name: Firebase, nameSpecified: 
+body: 
+                   …
+version: 8.10.0
+
+name: Firebase, nameSpecified: 
+body: 
+                   …
+version: 8.10.0
+
+name: FirebaseAnalytics, nameSpecified: 
+body: Copyright 2021 Googl…
+version: 8.10.0
+
+name: FirebaseAnalytics, nameSpecified: 
+body: Copyright 2021 Googl…
+version: 8.10.0
+
+name: FirebaseCore, nameSpecified: 
+body: 
+                   …
+version: 8.10.0
+
+name: FirebaseCore, nameSpecified: 
+body: 
+                   …
+version: 8.10.0
+
+name: FirebaseCoreDiagnostics, nameSpecified: 
+body: 
+                   …
+version: 8.10.0
+
+name: FirebaseCoreDiagnostics, nameSpecified: 
+body: 
+                   …
+version: 8.10.0
+
+name: FirebaseInstallations, nameSpecified: 
+body: 
+                   …
+version: 8.10.0
+
+name: FirebaseInstallations, nameSpecified: 
+body: 
+                   …
+version: 8.10.0
+
+name: GoogleAppMeasurement, nameSpecified: 
+body: Copyright 2021 Googl…
+version: 8.10.0
+
+name: GoogleAppMeasurement, nameSpecified: 
+body: Copyright 2021 Googl…
+version: 8.10.0
+
+name: GoogleDataTransport, nameSpecified: 
+body: 
+                   …
+version: 9.1.2
+
+name: GoogleDataTransport, nameSpecified: 
+body: 
+                   …
+version: 9.1.2
+
+name: GoogleUtilities, nameSpecified: 
+body: 
+                   …
+version: 7.6.0
+
+name: GoogleUtilities, nameSpecified: 
+body: 
+                   …
+version: 7.6.0
+
+name: LicensePlist, nameSpecified: 
+body: MIT License
+
+Copyrig…
+version: 3.15.0
+
+name: LicensePlist, nameSpecified: 
+body: MIT License
+
+Copyrig…
+version: 3.15.0
+
+name: nanopb, nameSpecified: 
+body: Copyright (c) 2011 P…
+version: 2.30908.0
+
+name: nanopb, nameSpecified: 
+body: Copyright (c) 2011 P…
+version: 2.30908.0
+
+name: PromisesObjC, nameSpecified: 
+body: 
+                   …
+version: 2.0.0
+
+name: PromisesObjC, nameSpecified: 
+body: 
+                   …
+version: 2.0.0
+
+add-version-numbers: false
+
+LicensePlist Version: 3.14.1
